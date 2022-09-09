@@ -1,7 +1,5 @@
 ### About 👋
-- 大学院生
-- AI系ベンチャー企業でインターンやってます（Tensorflow2 and 分散処理で深層強化学習アルゴリズム実装/論文調査）
-- 深層強化学習
+- MLエンジニア
 ### Qiita
 - [\[深層学習\]4000倍早いTransformer, Self-Attentionの計算量がO(n^2)からO(n)になった[論文解説]](https://qiita.com/Yosemat1/items/802a41588e8bffaca992)
 - [\[Python\]分散処理ライブラリRayを使ってシングルプロセスアプリを"完全に"そのまま分散処理アプリに変換する方法](https://qiita.com/Yosemat1/items/b09cfb8e90036f783204)
